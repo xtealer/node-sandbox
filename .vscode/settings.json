@@ -1,3 +1,4 @@
 {
-    "deno.enable": false
+  "deno.enable": false,
+  "javascript.validate.enable": false
 }
